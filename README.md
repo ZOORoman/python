@@ -1,4 +1,10 @@
-# Starts pack Python:
+# Python projects:
+1. [TgBot](https://github.com/ZOORoman/python/tree/main/tg_bot)
+2. [FastAPI](https://github.com/ZOORoman/python/tree/main/tg_bot)
+3. [Flask](https://github.com/ZOORoman/python/tree/main/tg_bot)
+4. [ML](https://github.com/ZOORoman/python/tree/main/tg_bot)
+
+<!-- # Starts pack Python:
 1. Folder baseline
 *Содержит в основание*
 2. Folder first
@@ -41,4 +47,4 @@
 
 Затем необходимо перейти в папку `src` командой `cd src` и запустить команду `uvicorn main:app --reload` для запуска сервера `uvicorn`. 
 
-После этого можно зайти в браузере по адресу `http://localhost:8000/docs` для просмотра доступных эндпоинтов.
+После этого можно зайти в браузере по адресу `http://localhost:8000/docs` для просмотра доступных эндпоинтов. -->
