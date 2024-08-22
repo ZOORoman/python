@@ -1,9 +1,10 @@
-# To Do Bot
+### Бот для заметок
 
-The bot includes:
-1. Adding/deleting records
-2. Saving records in the database
+Содержит такие функции как:
+1. Добавление/удаление записей
+2. Обновление и сохранение записей в БД
 
-The technologies used:
+Используемые технологии:
 - Aiogram3
 - SQLAlchemy
+
