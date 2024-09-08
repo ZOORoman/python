@@ -1,0 +1,7 @@
+*config.py
+*.DS_Store
+*.venv
+*venv
+*test
+*db.sqlite3
+*__pycache__
